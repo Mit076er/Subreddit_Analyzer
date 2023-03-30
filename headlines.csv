@@ -1,0 +1,284 @@
+0
+How does pipelining work if you have only one processor core ?
+Patterns for work across computers
+Books to read leisurely without coding along
+Is it technically possible to write an AI to optimize code?
+Problems requiring exponential time on NTM?
+IEEE Medal of Honor Goes to Vint Cerf
+Can I write a biography about you?
+Weird things I learned while writing an x86 emulator
+Any documentary about algorithms and society you would recommend?
+Visualization of Maze Generation Algorithms
+Are there differences between individual processors of the same design?
+confused around godel numbers.
+How I Used the Advent of Code in my Middle School
+At what stage magic happens ?
+[Serious] What computer science textbooks have the most amount of pages?
+Cutting-edge researchers within CS
+Maybe my best paper ever...half a page...even Arxiv rejected it!
+Any good books or other sources to learn about AI text-to-image generation?
+"Although hashing can provide data origin authentication, can MiTM attackers not just do this?"
+How Claude Shannon Invented the Future
+Resources to learn about compression
+What scientific field deals with interconnecting/modeling knowledge/information?
+Question
+Vulkan all the way: Transitioning to a modern low-level graphics API in academia
+What a good podcast you all listen too
+"When people refer to distributed system, distributed database, distributed application, what do they actually mean?"
+Greg Yang's work on a rigorous mathematical theory for neural networks
+"A colleague once sent me a website which ""simplifies"" research papers and makes them easy to understand. I can't find the link anymore, does anyone know the website?"
+Looking for numerical practice problems on Databases Indexing. Example provided
+"If a 1 bit picture is 2 colors, can you have a 0 bit picture with only 1 color?"
+Deterministic vs non-deterministic finite automata
+History book recommendation in computer science / electronics / networking
+Ranking of conferences in algorithms and complexity?
+"As we move into optical computing, does binary continue to ""make sense?"""
+[Millennium Prize Problem] Do you understand P vs NP (Polynomial Time) the puzzles we know we can solve quickly vs the puzzles we can't even devise algorithms to figure out how many solutions even exist.
+Donald Knuth's 2022 'Christmas Tree' Lecture Is About Trees
+Why are you into computer science?
+Latest research on Process Algebra and Temporal Logic frameworks for multi-agent systems.
+Question regarding N-Queens
+The Universe of Discourse : I wish people would stop insisting that Git branches are nothing but refs
+How are data structures persisted?
+Trouble understanding Application Layer in OSI Model.
+CS 6120: The Self-Guided Course
+My LGP-21 computer.
+"In ontology, like OWL, are data types (like dictionaries) modeled as Entity's or Classes."
+how is decided that ASCII uses 7bits and Extended ASCII 8 etc?
+Question about Circular Queue using Arrays
+How can I learn to create my own framework?
+Computers then vs computers now
+"Just finishing Code: The Hidden Language of Computer Hardware and Software, any other book recommendations?"
+What name is given to computer languages that use English like language?
+"As an AI researcher, I am quite confused."
+Justifying black-box powered breakthroughs in science requires critically examining AI's role in a wider process of discovery
+Overview on REST API
+Why are people in Computer Science so nice?
+Nyssa Package Manager alpha release
+Hypertext Transfer Protocol URL Issue for Curly Braces: () vs [] vs {Mathematics}
+Difference between API and system calls regarding something like windows ?
+How to improve knowledge of computer networks?
+In Serial File organisation what does “ method that physically stores records of data in a file “ mean? What does “physically” mean and when it says récords is it referring to an entity?
+Automatic differentiation in C
+Is it a good idea to email paper authors to get advice on troubleshooting its implementation?
+How would you teach genetic algorithms to CS students ?
+Smart Money by Michael Konik
+Free Stanford Webinar: GPT-3 & Beyond
+Elevate Your Language Skills with VocabularyCLI - The Ultimate CLI for Linguaphiles!
+How do computers computer log base 2 computations?
+"A Conversation with the Creators Behind Python, Java, TypeScript, and Perl"
+Matrix decomposition algorithm.
+Why is an ordinal number greater than every natural number denoted with omega?
+"Singlethread, Multithread, Synchronous, Asynchronous - How do these combine?"
+Can LLM's be trained with quantum computers?
+Practical Introduction to AI and Machine Learning with Hugging Face for Computer Science Students and Programmers
+How to get started with learning Operating Systems?
+Would Babbage's Analytical Machine & Alan Turing's Turing machine be considered Harvard Or Von Neumann architecture?
+Relearning maths with proof assistant
+Learning proof assistants
+"Genuine question, could clockwork be Turing complete?"
+Untraceable images
+RCU (Read Copy Update)
+Ain’t nobody got the time — Save time while plotting in Plotly
+Which functions can be radial basis functions for neural networks?
+High precision minifloat
+Should all high-level languages transpile to a central language?
+Uniform DICOM dataset for Deep Learning model
+"Still confused about program counters, instruction registers and overall programming of an 8 bit computer"
+Vacuum Tube Computer
+Computer Science Resources
+Book recommendations for lambda calculus??
+Stern Brocot Tree speed test between Julia and Python - open repo
+Is a null character really the most efficient way to mark the end of a string in memory?
+Good textbook for self-learning ML? (or other resources)
+"Question: Which are the GOD Tier Algorithms, and what do they do?"
+ML Object Detection Task
+Is the Chomsky Hierarchy complete?
+Paper from 2021 claims P=NP with poorly specified algorithm for maximum clique using dynamical systems theory
+Strategy Design Pattern in Spring Boot
+Quantum breakthrough could revolutionise computing - BBC News
+What sorting algo have I stumbled upon?
+Algorithm to parse complex mathematical expressions
+Programming Language Benchmarks
+Number of blocks vs block size in cache?
+"The first academic work on the theory of self-replicating computer programs was done in 1949 by John von Neumann . A #computervirus is a type of computer program that, when executed, replicates itself by modifying other computer programs and inserting its own code."
+"How does Codec related to TV, computer and smartphone screen?"
+What languages should you know to understand OSTEP
+What are some good papers involving mathematical integration in a computer science context? (eg game engine physics etc.)
+Theoretical question about RAID. Just an idea and might not even be possible.
+Do we have real quantum computers that work yet or are we still a way out?
+Optimizing a Polynomial Root Estimator for Molecular Dynamics Simulator
+List of reputable computer science news sites?
+study partner for Computational Complexity
+Resources for building search engine
+SSD Sequential Read performance drop when I'm on another window/app
+"For anyone curious about AI, especially in the context of programming"
+NVIDIA Hopper E4M3 float8 conversion to float32 in minimal Go code. This illustrates how IEEE 754 floating point can be restructured.
+Any good FREE logic gate sims?
+It's hard for me to read the book Introduction to Algorithms. Has anyone made a series of videos about it?
+Truffle Framework
+What happens when we call exit in a user level thread in a process which uses many to many multi-threading model?
+"Java’s James Gosling on fame, freedom, failure modes and fun"
+New to programming or computer science? Want advice for education or careers? Ask your questions here!
+Nobody really knows how processors work - true ?
+Why was the standard of normalisation of floating point Numbers chosen to be 01 and 10 ?
+Found this interesting video about making AI work for you - What do we think?
+"In this post, we look at how to update the #Merkletree 👇"
+[R] SOTA Real-Time Semantic Segmentation Model
+"Waze destination prediction ""like"" algorithm"
+I created a tool to visualize/edit graphs and graphs algorithms
+How can I train my brain to think for programming?
+"Amateur coders, what do you think can help you learn faster?"
+Minimax evaluation / score function for the game of Checkers (draughts)
+Confused between two books that consumealot of time
+Stanford Webinar - The Frontier of Deep Learning for Robotics
+Is there any paper/web talk about the principle to build digital circuit simulator
+Best Place to find research papers
+Goroutine simulation of a Tensor Processing Unit systolic array matrix multiplier
+Looking for a good introductory book for programming that is not language-specific
+"If you switch out polynomial time for any other complexity class, is there a provable one-way function?"
+Can DMA( direct memory access) be used with any I/O device? I would think that some would need involvement of the CPU of some sort ?
+Privacy-protecting camera hardware that is physically unable to capture faces?
+How does OPENAIs ChatGPT seem to “understand” things
+Asymptotic Analysis
+"Self learning about concurrency, threading, parallelism."
+How do you feel about learning CS with books vs courses?
+How does one go about proving P != NP
+"What is a ""closed-form solution""?"
+Help with AI/ML teaching materials
+automata theory and programming
+Question about halting of Busy Beaver function: Why does it halt?
+"Different ways of modelling the movement of ""Smart Dust"""
+Can the airline scheduling algorithm (network flow) be extended to handle seating capacities?
+Just your Basic Coding Form…..
+Is a system call done manually by the user or by the program running with the user being in control ?
+Which approximation to arbitrary curves in computer graphics most widely preferred? Which are more accurate?
+"I implemented the Boids Algorithm in QBasic, for fun!"
+Can specialized ISA opcode hardware implementation be considered ASIC?
+Backtracking VS Dynamic Programming
+"[R] Robust Learning: the past and present. The DNN has strong fitting capability, but we find ..."
+Could you have a computer with an uncountably infinite memory?
+Ensemble Learning For Predictive Models | Machine Learning Archive
+Your suggestions to understand OOP concept
+Split-K: The simple cache-blocking technique used by state-of-the-art neural net tensor processing systems (for convolutions and other matrix multiplications)
+"System design and architecture, do I need to engineer software?"
+OpenSSL and Legal issues regarding encryption software
+Virtual machine low level question
+Is it theoretically possible to learn how a chess bot is programmed and then play how the bot would play? I have no idea how these things work but I'm just wondering if some person (not me) could go ahead and become a living 3200-rated chess bot but human. (I doubt it's possible but still curious!
+Halting problem and paradoxes
+How does location of physical chip or hardware components affect latency and access speed?
+Is a conjunction the same as the AND operator and an disjunction the same as the OR operator?
+How Search Engines Work
+"Distinction between predicated and branch instructions, as well as tradeoffs"
+What would it entail to build a Large Language Model (LLM) that can turn Wikipedia into structured data?
+Advancements in CS
+Does Fortran still have a place in the education of computer science students?
+What is the best data structure for this problem?
+Is it possible to learn assembly programming and directly program my CPU
+Is Starvation possible in First Come first serve CPU scheduling
+CFP: The 23rd International Conference on Algorithms and Architectures for Parallel Processing
+Building a hardware description language (Kind of)
+Question about the Chomsky Hierarchy
+Asymptotic Analysis/Math/Proofs Help
+"Max Bense, “On Natural and Artificial Poetry” (1962)"
+Could future better performing computers pose security threats?
+What Happens When A CPU Starts
+how relavent are these books in todays time? (2023) are they still a fun read?
+GOTOphobia considered harmful (in C)
+Unpacking the HF in RLHF: How Humans Teach Large Language Models to be Better
+trying to implement bayesian linear regression in Java
+What cool relevant features does your programming language/framework of choice have?
+Is there a name for the opposite of a Grey Code?
+Good research papers to read in Computer Science/Compiler Theory?
+Why does using the distributive law work in Boolean algebra ?
+What's the difference between special and general purpose registers?
+Any resources/books on how the OLD Internet and WWW used to work and evolved?
+The connection between Math and CS - Do we need a series of posts about it?
+Donald Ervin Knuth
+Good CS Podcast?
+important advice for those who will major in CS
+IP Sockets - Networking Fundamentals - Part 1
+Programming language front end
+Question: Random intellectual exercise
+Is this Graph 3-colorable?
+How valuable are Noam Chomsky's contributions to Computer science?
+A Three-part Introduction to Algorithms for Computer Science Students and Self-taught Developers
+What features would you want in a new programming language?
+"Can reading a file, while some process is writing to it, lead to loss/corruption of data?"
+Calling cross region microservices in Cloud
+How can I correct defective chunks of data in a dataset ?
+Books to introduce CS students to other subjects?
+"Seymour Parter, did early research the graph / linear algebra connection"
+Need help understanding the difference between average case and amortized complexity
+Is it accurate to say that lambda calculus' primary application in CS is computability theory?
+GPTed: using GPT-3 for semantic prose-checking
+What Theoretical Non-Von Neumann Architecture's Can be Designed?
+I created a programming language with Shortcuts.
+[P] New Features of Image Segmentation Project PaddleSeg (6k stars)
+Intro to CS book recommendations?
+Witness the outcomes of top-tier AI & Data Science training by Harvard & UCLA faculty as our graduates showcase their state of the art AI & Data Science Projects LIVE!
+A brave new world: building glibc with LLVM
+Guest Talk Ideas for High School Students?
+VS Code Sandboxing
+"Can someone build a plugin to programming languages such that, as you code, it will also generate the schematic logic circuits representing your program. How cool would it be to see the configuration of logic gates that represent the program you wrote?"
+There is a STEM day at my company need to come-up with an engaging 20 min demo for 6th graders
+"Operative communication: project Cybersyn and the intersection of information design, interface design, and interaction design"
+PXE Booting Over the WAN
+"Looking for books, videos, or other resources on specific or general topics? Ask here!"
+Is the brain a turing machine?
+Can C++ Be Saved? Bjarne Stroustrup on Ensuring Memory Safety
+"Do Karnaugh maps serve the same purpose as the laws of Boolean algebra, which is to simplify Boolean expressions? The advantage of Karnaugh maps is that it’s easier to simplify bigger, more complex expressions ?"
+Encryption Question
+Stanford webinar available to stream: GPT-3 & Beyond
+Is there an information-theory reason that neural networks require so many samples to train?
+Real-time Working of Sorting Algorithms
+Any free video courses for Assembly Language for x86 Processors?
+The connection between math and CS
+Need guidance for building my personal knowledge base.
+Usage of lookup tables in AES
+The Philosophy of Computer Science (Stanford Encyclopedia of Philosophy)
+Church-Turing Thesis
+Day 2/100 of 100 days of coding straight (feel free to check out my journey! :D)
+It's TCP vs. RPC All Over Again
+Does this deterministic finite automata work?
+does theory of computation also concerns itself with inputs that are not strings?
+Does “Machine Address Code” and “Media Access Control Address” mean the same thing?
+"I've just learnt the basics of binary, unary, and decimal. Since binary uses just on and off to represent 1 or 0, wouldn't it be possible to create a much more intelligent base by representing different digits with levels of electricity, rather than just on or off?"
+How to measure the rate of false positives in a Bloom Filter
+Interview with Martin Hellman of Diffie-Hellman Fame (2004)
+North Hollywood Python (Compiler)
+"Might be off-topic but, possibility of sentience/feelings in AI?"
+What happens when a top-down approach of dynamic programming is applied to any problem?
+Anyone read Fundamental Proof Methods in Computer Science?
+Going back to computer programming after cancer
+Alternate NP-Completeness Reduction Proofs
+Resources on Learning haskell
+Any books to recommend for 7 or 9th grade related to computer science and basic math concepts?
+How do Open Source Software Companies make money?
+Java vs Scala for Functional Programming
+How to find the closest “grouping” of colors compared to another color “grouping” ?
+"PhD'ers, what are you working on? What CS topics excite you?"
+Mathematical Theory behind RNG
+Foundation of Distributed Systems Security | Symmetric Keys | Asymmetric Keys | Digital Certificates
+"US-RSE Conference 2023: The First US Based Research Software Engineering Conference - Oct 16-18, Chicago, IL"
+What is application binary interface (ABI) ?
+"1st Semester in computer engineering, feel so lost"
+superscalar out-of-order architecture design learning courses
+Is the class P of decision problems the set of all problems for which a polynomial complexity algorithm exists? Even if you don’t know the algorithm?
+Barn Progra Language
+GCN datasets
+algorithm for finding shortest non-overlapping paths between multiple sources and destinations
+Was wondering if someone could help me understand these 'Computational Thinking' techniques?
+"What are some good ""Light"" reads?"
+"same file, but different hex values"
+Number of ways to reach grid end in exactly k jumps (jump size not fixed) [problem]
+Where and how to find computation time tables for certain problems?
+What books are essential to a CS/CE library; which books should I add?
+LGP-21 Optimum Address Calculator
+Interactive Playground to learn Distributed Algorithms
+"What exactly does SIMD , MISD and MIMD refer to exactly and what are the differences between them?"
+Artificial super intelligence (ASI)
+What computer science book should everyone read?
+How are higher level programming languages run?
+Any good pop-sci/casual reading computer science books? (Or videos/movies?)
+Does anyone know why we are still learning classful Ip adresses?
