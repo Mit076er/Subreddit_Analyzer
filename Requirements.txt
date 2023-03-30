@@ -1,5 +1,5 @@
 wordcloud
-praw
+pip install praw
 vaderSentiment.vaderSentiment
 SentimentIntensityAnalyzer
 base64
