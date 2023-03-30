@@ -1,5 +1,5 @@
 wordcloud
-import praw
+praw
 vaderSentiment.vaderSentiment
 SentimentIntensityAnalyzer
 base64
