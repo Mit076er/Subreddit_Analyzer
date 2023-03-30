@@ -9,8 +9,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 reddit = praw.Reddit(
     client_id="JnZeKfKqP62GP3CzptSLRg",
     client_secret="ykOlgXsGgI05joj4cMtyx4Ms7ZhIvg",
-    username="Godzone_YT",
-    password="koikoijiojio90",
+  ##add username and password 
     user_agent="Godzone_YT",
 )
 
